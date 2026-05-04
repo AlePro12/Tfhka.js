@@ -1,5 +1,6 @@
 {
     "name": "tfhka-js",
+    "main": "src/tfhka.js",
     "dependencies": {
         "ffi-napi": "^4.0.3",
         "ref-napi": "^3.0.3"
